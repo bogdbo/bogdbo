@@ -15,7 +15,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" /> Kubernetes</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg" alt="Linux" /> Linux</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/webstorm/webstorm-original.svg" alt="WebStorm" /> WebStorm</code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /> VisualStudio</code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" />VisualStudio</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" /> MSSQL</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="MongoDB" /> MongoDB</code>
 
