@@ -1,4 +1,4 @@
-### Hey there👋🏻, I'm [Bogdan!](https://www.linkedin.com/in/bogdanboiculese) 
+### Hey there👋🏻, I'm [Bogdan](https://www.linkedin.com/in/bogdanboiculese)! A senior full stack developer from London.
 
 - 🔭 I’m currently working as Senior fullstack developer @ HealthHero
 - 🌱 I’m currently learning how to take care of 🐇
