@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to take care of 🐇
 - 📫 How to reach me: b.o.g.d.a.n.b.o.i.c.u.l.e.s.e on gmail
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: `rc` in filenames probably stands for *run commands*
+- ⚡ Fun fact: `rc` in filenames stands for `run commands` 
 
 </br>
 </br>
