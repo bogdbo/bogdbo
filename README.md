@@ -6,6 +6,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: `rc` in filenames probably stands for *run commands*
 
+</br>
+</br>
+
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot-net" /> .NET Core</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="React" /> React</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg" alt="Typescript" /> Typescript</code>
@@ -19,6 +22,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /> VisualStudio</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" /> MSSQL</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="MongoDB" /> MongoDB</code>
-
 
 
