@@ -22,5 +22,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /> VisualStudio</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" /> MSSQL</code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="MongoDB" /> MongoDB</code>
+<code>GraphQL</code>
+<code>Terraform</code>
+<code>Azure</code>
+<code>Typescript</code>
+<code>jest</code>
+<code>xUnit</code>
+<code>SCSS</code>
+<code>CI/CD</code>
 
 
