@@ -1,4 +1,4 @@
-### Hey there 👋🏻, I'm [Bogdan](https://www.linkedin.com/in/bogdanboiculese)! A senior full stack developer from London.
+### Hey there 👋🏻, I'm [Bogdan](https://www.linkedin.com/in/bogdanboiculese), I'm currently in London and work as a tech lead for IMG Arena.
 
 - 🔭 I’m currently working as senior fullstack developer @ IMG Arena
 - 🌱 I’m currently learning flutter and how to take care of 🐇
